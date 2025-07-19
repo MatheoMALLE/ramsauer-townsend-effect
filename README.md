@@ -1,18 +1,18 @@
 # Ramsauer–Townsend Effect 🚀
-Ce projet a pour objectif l’étude approfondie du **phénomène quantique Ramsauer–Townsend**, un effet observé lors de la diffusion d’électrons de basse énergie (typiquement autour de 1 eV) sur des atomes de **gaz nobles** tels que le **xénon (Xe)**, le **krypton (Kr)** ou l’**argon (Ar)**. Alors que la théorie classique prédit une augmentation progressive de la section efficace avec la diminution de l’énergie des électrons, les expériences révèlent au contraire un **creux marqué dans la courbe de diffusion**. À certaines énergies, les électrons semblent traverser les atomes sans interaction significative, comme s’ils devenaient temporairement "transparents" au faisceau incident.
+The aim of this project is to study the **Ramsauer-Townsend quantum phenomenon**, an effect observed during the scattering of low-energy electrons (typically around 1 eV) on atoms of **noble gases** such as **xenon (Xe)**, **krypton (Kr)** or **argon (Ar)**. While classical theory predicts a gradual increase in the effective cross-section with decreasing electron energy, experiments reveal a **deep in the scattering curve**. At precise energies, the electrons seem to pass through the atoms without any significant interaction, as if they were temporarily “transparent” to the incident beam.
 
-Ce comportement ne peut être expliqué que dans le cadre de la **mécanique quantique**, notamment grâce au **paquet d'ondes** et aux **phénomènes d’interférences constructives et destructives** dans la fonction d’onde de l’électron incident. Le creux observé dans la section efficace correspond alors à une interférence destructive quasi-totale, analogue à un phénomène de résonance.
+This behaviour can only be explained within the framework of **quantum mechanics**, thanks in particular to the **wave packet** and the **phenomena of constructive and destructive interference** in the wave function of the incident electron. The dip observed in the effective cross-section corresponds to a quasi-total destructive interference, analogous to a resonance phenomenon.
 
 ## 🛠️ Roadmap
-- modélisation de la diffusion par un **potentiel effectif** (potentiel carré et sphérique)
-- **résolution de l’équation de Schrödinger** en une ou plusieurs dimensions.
-- calcul de la probabilité de transmission et de la section efficace de diffusion.
-- **modélisation informatique** (en python) des différent solution physique (paquet d'onde).
-- visualisation des résultats et mise en évidence du creux Ramsauer–Townsend.
+- modelisation of diffusion by an **effective potential** (square and spherical potential)
+- **solve of the Schrödinger equation** in one or more dimensions.
+- calculation of the transmission probability and the effective scattering cross-section.
+- **computer modelling** (in Python) of the different physical solutions (wave packet).
+- visualisation of the results.
 
-## 🧰 Compétences mobilisées
-- physique théorique
-- calcul scientifique
-- programmation **Python**
-- présentation pédagogique des résultats
+## 🧰 Skills required
+- theoretical physics
+- scientific calcule
+- **Python** programming
+- educational presentation of results
 
